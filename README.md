@@ -2,7 +2,7 @@
 > <h3>Descrição: Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.</h3>
 
 ## Componentes:
-+ Victor Fernandes | Github: 
++ Victor Fernandes | Github: https://github.com/victorfernn;
 + Daniel Lacerda Melo | Github: https://github.com/DLacerdadev;
 + Luan Masao Hirahata | Github: https://github.com/MasaoLH;
 +Karine Costa Silva | Github: https://github.com/karinecsilva;
@@ -11,3 +11,9 @@
 + Camila Lacerda | Github: https://github.com/camilalacerdab;
 + Kaique Dias Pereira | Github: https://github.com/diaszin;
 
+## Atividade 1: mapa mental
+https://mm.tt/app/map/3225628512?t=EO7H0AH3Rl
+
+## Atividade 2: mapa mental
+
+## Atividade 3: mapa mental
