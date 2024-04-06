@@ -1,12 +1,13 @@
 # Atv-arquitetura-de-computadores
 > <h3>Descrição: Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.</h3>
 
-<h3><b>Componentes:</b></h3>
-+ Victor Fernandes;
-+ Kaique Dias Pereira;
-+ Camila Lacerda;
-+ Daniel Lacerda;
-+ Arthur Miranda;
-+ Karine Costa Silva;
-+ Luan Masao Hirahata;
-+ Aderval Santiago;
+## Componentes:
++ Victor Fernandes | Github: 
++ Daniel Lacerda Melo | Github: https://github.com/DLacerdadev;
++ Luan Masao Hirahata | Github: https://github.com/MasaoLH;
++Karine Costa Silva | Github: https://github.com/karinecsilva;
++ Everaldo Santiago | Github: http://github.com/adersan;
++ Arthur Miranda | Github: https://github.com/Dakorte;
++ Camila Lacerda | Github: https://github.com/camilalacerdab;
++ Kaique Dias Pereira | Github: https://github.com/diaszin;
+
