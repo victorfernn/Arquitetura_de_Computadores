@@ -1,7 +1,7 @@
 # Atv-arquitetura-de-computadores
-Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.
+<h3>Descrição: Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.</h3>
 
-Componentes:
+<h4>Componentes:</h4>
 1. Victor Fernandes;
 2. Kaique Dias Pereira;
 3. Camila Lacerda;
