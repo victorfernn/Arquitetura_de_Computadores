@@ -14,6 +14,7 @@
 ## Atividade 1: mapa mental
 https://mm.tt/app/map/3225628512?t=EO7H0AH3Rl
 
-## Atividade 2: mapa mental
+## Atividade 2: Podcast
 
-## Atividade 3: mapa mental
+## Atividade 3: Quiz do Kahoot
+https://create.kahoot.it/share/quiz-arquitetura-de-computadores/b65284bd-ac10-4d5f-a6a8-ef72baac2135
