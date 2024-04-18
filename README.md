@@ -1,4 +1,4 @@
-# Atv-arquitetura-de-computadores
+# Atv arquitetura de computadores
 > <h3>Descrição: Trabalho valendo 4 pontos na disciplina: arquitetura de computadores.</h3>
 
 ## Componentes:
