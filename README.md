@@ -15,7 +15,7 @@
 https://mm.tt/app/map/3225628512?t=EO7H0AH3Rl
 
 ## Atividade 2: Podcast
-https://podcasters.spotify.com/pod/show/victorfern/episodes/Arquitetura-de-computadores-e2i28n0
+https://podcasters.spotify.com/pod/show/victorfern
 
 ## Atividade 3: Quiz do Kahoot
 https://create.kahoot.it/share/quiz-arquitetura-de-computadores/b65284bd-ac10-4d5f-a6a8-ef72baac2135
